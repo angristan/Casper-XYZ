@@ -869,8 +869,8 @@ Usage (In Ghost editor):
 }
 
 .post-full-content h2 {
-    margin: 0.5em 0 0.2em 0;
-    font-size: 3.6rem;
+    margin: 0.5em 0 0.5em 0;
+    font-size: 3rem;
     font-weight: 700;
 }
 @media (max-width: 500px) {
