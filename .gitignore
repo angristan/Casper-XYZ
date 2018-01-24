@@ -22,4 +22,5 @@ projectFilesBackup
 .DS_Store
 
 dist/
-assets/built/
+a/assets/built/
+b/assets/built/
