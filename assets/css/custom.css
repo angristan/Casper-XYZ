@@ -1,0 +1,48 @@
+/* Reduce h2 size and add some bottom margin */
+.post-full-content h2 {
+    margin: 0.5em 0 0.5em 0;
+    font-size: 3rem;
+}
+
+/* Make the thread the same width as the post */
+#isso-thread {
+    padding: 0 100px 0 !important;
+}
+
+@media (max-width: 1170px) {
+    #isso-thread {
+        padding: 5vw 7vw 0 !important;
+    }
+}
+
+@media (max-width: 500px) {
+    #isso-thread {
+        padding: 0 !important;
+    }
+}
+/* reduce the bottom padding of the author card */
+.post-full-footer {
+    padding: 3vw 0 3vw;
+}
+
+/* Reduce sticked header by 10px on desktop */
+@media (min-width: 900px) {
+    .floating-header {
+        height: 50px;
+    }
+}
+
+/* Justify post content */
+.post-full-content {
+    text-align: justify;
+}
+
+/* Make the post content font size 0.2rem tinier */
+.post-full-content {
+    font-size: 2rem;
+}
+
+/* Reduce padding-bottom of the footer by 20px */
+.site-footer {
+    padding-bottom: 20px;
+}
