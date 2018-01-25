@@ -1950,3 +1950,8 @@ Usage (In Ghost editor):
         height: 50px;
     }
 }
+
+/* Justify post content */
+.post-full-content {
+    text-align: justify;
+}
