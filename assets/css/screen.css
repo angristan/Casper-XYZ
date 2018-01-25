@@ -1960,3 +1960,8 @@ Usage (In Ghost editor):
 .post-full-content {
     font-size: 2rem;
 }
+
+/* Reduce padding-bottom of the footer by 20px */
+.site-footer {
+    padding-bottom: 20px;
+}
