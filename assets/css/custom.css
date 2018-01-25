@@ -42,6 +42,13 @@
     font-size: 2rem;
 }
 
+/* Make the first paragraph the same size as the post */
+.post-template .kg-card-markdown>p:first-child {
+    font-size: inherit;
+    line-height: inherit;
+}
+
+
 /* Reduce padding-bottom of the footer by 20px */
 .site-footer {
     padding-bottom: 20px;
