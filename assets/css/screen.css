@@ -1955,3 +1955,8 @@ Usage (In Ghost editor):
 .post-full-content {
     text-align: justify;
 }
+
+/* Make the font size 0.2rem tinier */
+.post-full-content {
+    font-size: 2rem;
+}
