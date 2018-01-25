@@ -1928,6 +1928,17 @@ Usage (In Ghost editor):
     padding: 0 100px 0 !important;
 }
 
+@media (max-width: 1170px) {
+    #isso-thread {
+        padding: 5vw 7vw 0 !important;
+    }
+}
+
+@media (max-width: 500px) {
+    #isso-thread {
+        padding: 0 !important;
+    }
+}
 /* reduce the bottom padding of the author card */
 .post-full-footer {
     padding: 3vw 0 3vw;
