@@ -1,6 +1,6 @@
 # Casper
 
-The is the Ghost theme of [angristan.xyz](https://angristan.xyz), based on [Casper](https://github.com/TryGhost/Casper).
+This is the Ghost theme of [angristan.xyz](https://angristan.xyz), based on [Casper](https://github.com/TryGhost/Casper).
 
 For more information regarding how to use the theme with Ghost, please refer to the [original README](https://github.com/TryGhost/Casper)
 
