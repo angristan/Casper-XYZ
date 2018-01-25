@@ -1943,3 +1943,10 @@ Usage (In Ghost editor):
 .post-full-footer {
     padding: 3vw 0 3vw;
 }
+
+/* Reduce sticked header by 10px on desktop */
+@media (min-width: 900px) {
+    .floating-header {
+        height: 50px;
+    }
+}
