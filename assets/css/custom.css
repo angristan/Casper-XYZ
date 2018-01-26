@@ -53,3 +53,8 @@
 .site-footer {
     padding-bottom: 20px;
 }
+
+/* Add a bit of padding under the author name in the author card */
+.author-card-name {
+    padding: 0 0 5px 0;
+}
