@@ -88,3 +88,8 @@
 .author-card-name {
     padding: 0 0 5px 0;
 }
+
+/* Reduce margin top and bottom for pictures and videos by 1em */
+.post-full-content img, .post-full-content video {
+    margin: 0.5em auto;
+}
