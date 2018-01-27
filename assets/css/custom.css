@@ -1,3 +1,44 @@
+/* source-sans-pro-regular - latin */
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/source-sans-pro-v11-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'),
+         url('../fonts/source-sans-pro-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/source-sans-pro-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/source-sans-pro-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/source-sans-pro-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/source-sans-pro-v11-latin-regular.svg#SourceSansPro') format('svg'); /* Legacy iOS */
+}
+
+/* Use Source Sans Pro font */
+.post-full-content {
+    font-family: 'Source Sans Pro',Georgia,serif;
+}
+.post-full-content h5 {
+    font-family: 'Source Sans Pro',Georgia,serif;
+}
+.post-card-excerpt {
+    font-family: 'Source Sans Pro',Georgia,serif;
+}
+.site-header-content .author-meta {
+    font-family: 'Source Sans Pro',Georgia,serif;
+}
+.subscribe-overlay-description {
+    font-family: 'Source Sans Pro',Georgia,serif;
+}
+
+/* Justify post content */
+.post-full-content {
+    text-align: justify;
+}
+
+/* Make the post content font size 0.4rem tinier */
+.post-full-content {
+    font-size: 1.8rem;
+}
+
 /* Reduce h2 size and add some bottom margin */
 .post-full-content h2 {
     margin: 0.5em 0 0.5em 0;
@@ -32,22 +73,11 @@
     }
 }
 
-/* Justify post content */
-.post-full-content {
-    text-align: justify;
-}
-
-/* Make the post content font size 0.2rem tinier */
-.post-full-content {
-    font-size: 2rem;
-}
-
 /* Make the first paragraph the same size as the post */
 .post-template .kg-card-markdown>p:first-child {
     font-size: inherit;
     line-height: inherit;
 }
-
 
 /* Reduce padding-bottom of the footer by 20px */
 .site-footer {
