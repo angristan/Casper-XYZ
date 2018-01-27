@@ -123,3 +123,8 @@
         padding: 30px 0 0;
     }
 }
+
+/* Fix the blog title */
+.blog-title {
+    margin-right: 1px;
+}
