@@ -93,3 +93,33 @@
 .post-full-content img, .post-full-content video {
     margin: 0.5em auto;
 }
+
+/* Reduce padding top of the post header by 4vw */
+.post-full-header {
+    padding: 3vw 3vw 3vw;
+}
+
+/* Reduce padding top and bottom of the post header on mobile */
+@media (max-width: 500px) {
+    .post-full-header {
+        padding: 10vw 3vw 8vw;
+    }
+}
+
+/* Center the header post image */
+.post-header-image {
+    display: block;
+    margin: auto;
+}
+
+/* Remove the shadows as we move up the image */
+.post-full-content::before, .post-full-content::after {
+    display: none;
+}
+
+/* Add padding under the header post image on mobile */
+@media (max-width: 500px) {
+    .post-full-content {
+        padding: 30px 0 0;
+    }
+}
