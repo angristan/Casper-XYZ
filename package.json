@@ -1,7 +1,7 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://demo.ghost.io",
+    "name": "casper-xyz",
+    "description": "This is the Ghost theme of angristan.xyz, based on Casper.",
+    "demo": "https://angristan.xyz",
     "version": "2.1.9",
     "engines": {
         "ghost": ">=1.2.0"
@@ -29,10 +29,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/Angristan/Casper.git"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
-    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
+    "bugs": "https://github.com/Angristan/Casper/issues",
+    "contributors": "https://github.com/Angristan/Casper/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
         "cssnano": "3.7.1",
