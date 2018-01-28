@@ -1,4 +1,6 @@
 # Casper
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAngristan%2FCasper-XYZ.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAngristan%2FCasper-XYZ?ref=badge_shield)
+
 
 This is the [Ghost](https://github.com/tryghost/ghost/) theme of [angristan.xyz](https://angristan.xyz), based on [Casper](https://github.com/TryGhost/Casper).
 
@@ -15,3 +17,7 @@ List of the modifications made in this fork:
 * [Host jQuery locally](https://github.com/Angristan/Casper/commit/50b425d7c1a370bd44d599d597b25623f8c8936b)
 * [Use the Open Sans Pro font](https://github.com/Angristan/Casper/blob/master/assets/css/custom.css#L1)
 * [Header image is the same width as the content, and the content doesn't step on it](https://github.com/Angristan/Casper/commit/1c0fd7d699651d7413028d130f59e20dbcab498e)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAngristan%2FCasper-XYZ.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAngristan%2FCasper-XYZ?ref=badge_large)
