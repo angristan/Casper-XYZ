@@ -15,3 +15,10 @@ List of the modifications made in this fork:
 * [Host jQuery locally](https://github.com/Angristan/Casper/commit/50b425d7c1a370bd44d599d597b25623f8c8936b)
 * [Use the Open Sans Pro font](https://github.com/Angristan/Casper/blob/master/assets/css/custom.css#L1)
 * [Header image is the same width as the content, and the content doesn't step on it](https://github.com/Angristan/Casper/commit/1c0fd7d699651d7413028d130f59e20dbcab498e)
+
+### External assets embedded
+
+Here are the assets that I downloaded and included in the repo as I don't want to make call to 3rd-party services:
+
+* [jQuery](https://github.com/jquery/jquery)
+* [Source Sans Pro font from Google Fonts](https://fonts.google.com/?selection.family=Source+Sans+Pro)
