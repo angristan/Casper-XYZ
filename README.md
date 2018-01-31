@@ -16,6 +16,13 @@ List of the modifications made in this fork:
 * [Use the Open Sans Pro font](https://github.com/Angristan/Casper/blob/master/assets/css/custom.css#L1)
 * [Header image is the same width as the content, and the content doesn't step on it](https://github.com/Angristan/Casper/commit/1c0fd7d699651d7413028d130f59e20dbcab498e)
 
+### Hardcoded stuff
+
+I try to make the theme reusable as possible, but I still have to hardcode some stuff.
+
+* [Isso comments block](https://github.com/Angristan/Casper-XYZ/blob/master/post.hbs#L71)
+
+
 ### External assets embedded
 
 Here are the assets that I downloaded and included in the repo as I don't want to make call to 3rd-party services:
