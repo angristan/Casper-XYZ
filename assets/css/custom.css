@@ -34,9 +34,9 @@
     text-align: justify;
 }
 
-/* Make the post content font size 0.4rem tinier */
+/* Make the post content font size 0.3rem tinier */
 .post-full-content {
-    font-size: 1.8rem;
+    font-size: 1.9rem;
 }
 
 /* Reduce h2 size and add some bottom margin */
