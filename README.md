@@ -28,6 +28,6 @@ I try to make the theme reusable as possible, but I still have to hardcode some 
 Here are the assets that I downloaded and included in the repo as I don't want to make call to 3rd-party services:
 
 * [jQuery](https://github.com/jquery/jquery)
-* [Source Sans Pro font from Google Fonts](https://fonts.google.com/?selection.family=Source+Sans+Pro)
+* [Source Sans Pro font from Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro)
 
 They are all under their respective licence.
