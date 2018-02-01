@@ -89,9 +89,14 @@
     padding: 0 0 5px 0;
 }
 
-/* Reduce margin top and bottom for pictures and videos by 1em */
+/* Reduce top and bottom margins for pictures and videos by 1em */
 .post-full-content img, .post-full-content video {
     margin: 0.5em auto;
+}
+
+/* Reduce top and bottom margins for code */
+.post-full-content pre {
+    margin: 0 0 2em;
 }
 
 /* Reduce padding top of the post header by 4vw */
