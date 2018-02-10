@@ -20,7 +20,7 @@ List of the modifications made in this fork:
 
 I try to make the theme reusable as possible, but I still have to hardcode some stuff.
 
-* [Isso comments block](https://github.com/Angristan/Casper-XYZ-XYZ/blob/master/post.hbs#L71)
+* [Isso comments block](https://github.com/Angristan/Casper-XYZ/blob/master/post.hbs#L71)
 
 
 ### External assets embedded
