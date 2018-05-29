@@ -133,3 +133,23 @@
 .floating-header-blog-title {
     margin-right: 1px;
 }
+
+/* Fix Isso vote bar styling */
+
+.isso-comment-footer svg {
+    transform: translateY(-5px);
+}
+
+.isso-comment-footer .downvote svg {
+    transform: translateY(-5px) translateX(3px);
+}
+
+.isso-comment-footer .reply {
+    display: inline-block;
+    transform: translateY(-2px);
+}
+
+.isso-comment-footer .votes {
+    display: inline-block;
+    transform: translateY(2px);
+}
