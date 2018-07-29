@@ -74,7 +74,7 @@
 }
 
 /* Make the first paragraph the same size as the post */
-.post-template .kg-card-markdown>p:first-child {
+.post-template .kg-card-markdown>p:first-child, .post-template .post-content>p:first-child {
     font-size: inherit;
     line-height: inherit;
 }
