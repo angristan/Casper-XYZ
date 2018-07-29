@@ -153,3 +153,9 @@
     display: inline-block;
     transform: translateY(2px);
 }
+
+/* Remove margin around image caption */
+
+.kg-image-card figcaption {
+    margin: 0;
+}
