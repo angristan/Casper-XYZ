@@ -21,7 +21,7 @@ List of the modifications made in this fork:
 I try to make the theme reusable as possible, but I still have to hardcode some stuff.
 
 * [Isso comments block](https://github.com/Angristan/Casper-XYZ/blob/master/post.hbs#L71)
-* [GitHub and Mastodon profile links](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
+* [GitHub, Mastodon and Shaarli links](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
 
 ### External assets embedded
 
