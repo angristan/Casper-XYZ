@@ -8,7 +8,7 @@ For more information regarding how to use the theme with Ghost, please refer to 
 
 List of the modifications made in this fork:
 
-* [Custom CSS (commented)](https://github.com/Angristan/Casper-XYZ/blob/master/assets/css/custom.css)
+* [Custom CSS (lots of stuff, commented)](https://github.com/Angristan/Casper-XYZ/blob/master/assets/css/custom.css)
 * [Removed share buttons in the header](https://github.com/Angristan/Casper-XYZ/commit/b4530b973a71bcdfce82c02572525171a5fa9159)
 * [Replaced Feedly links by original RSS links](https://github.com/Angristan/Casper-XYZ/commit/c618bc702969c217b6f48277244b6bf04b4e46bd)
 * [Added Isso for comments](https://github.com/Angristan/Casper-XYZ/blob/master/post.hbs#L71)
@@ -17,6 +17,7 @@ List of the modifications made in this fork:
 * [Header image is the same width as the content, and the content doesn't step on it](https://github.com/Angristan/Casper-XYZ/commit/1c0fd7d699651d7413028d130f59e20dbcab498e)
 * [GitHub, Mastodon and Shaarli links and SVG icons](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
 * Added [Drone CI](https://github.com/Angristan/Casper-XYZ/blob/master/.drone.yml)
+* (Use GitLab-like font for code blocks instead of ugly monospace)[https://github.com/angristan/Casper-XYZ/blob/master/assets/css/custom.css#L163]
 
 
 ### Hardcoded stuff
