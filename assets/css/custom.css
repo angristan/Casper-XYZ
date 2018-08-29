@@ -159,3 +159,9 @@
 .kg-image-card figcaption {
     margin: 0;
 }
+
+/* Use GitLab-like font for code blocks instead of ugly monospace */
+
+code, kbd, pre, samp {
+    font-family: "Menlo", "DejaVu Sans Mono", "Liberation Mono", "Consolas", "Ubuntu Mono", "Courier New", "andale mono", "lucida console", monospace;
+}
