@@ -1,0 +1,18 @@
+image: node:8-alpine
+
+cache:
+  paths:
+  - node_modules/
+
+stages:
+  - install
+  - test
+
+Install modules:
+  stage: install
+  script:
+   - yarn install
+
+Run tests:
+  script:
+   - yarn test
