@@ -8,6 +8,8 @@ For more information regarding how to use the theme with Ghost, please refer to 
 
 ## Fork
 
+I keep my fork up-to-date with the upstream.
+
 List of the modifications made in this fork:
 
 * [Custom CSS (lots of stuff, commented)](https://github.com/Angristan/Casper-XYZ/blob/master/assets/css/custom.css)
@@ -20,7 +22,6 @@ List of the modifications made in this fork:
 * [GitHub, Mastodon and Shaarli links and SVG icons](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
 * Added [GitLab CI](https://gitlab.com/angristan/Casper-XYZ/pipelines)
 * [Use GitLab-like font for code blocks instead of ugly monospace](https://github.com/angristan/Casper-XYZ/blob/master/assets/css/custom.css#L163)
-
 
 ### Hardcoded stuff
 
