@@ -5,14 +5,14 @@ cache:
   - node_modules/
 
 stages:
-  - install
   - test
 
 Install modules:
-  stage: install
+  stage: test
   script:
    - yarn install
 
 Run tests:
+  stage: test
   script:
    - yarn test
