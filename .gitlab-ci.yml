@@ -7,12 +7,8 @@ cache:
 stages:
   - test
 
-Install modules:
+yarn test:
   stage: test
   script:
    - yarn install
-
-Run tests:
-  stage: test
-  script:
    - yarn test
