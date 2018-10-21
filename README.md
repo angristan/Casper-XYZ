@@ -29,6 +29,7 @@ I try to make the theme reusable as possible, but I still have to hardcode some 
 
 * [Isso comments block](https://github.com/Angristan/Casper-XYZ/blob/master/post.hbs#L71)
 * [GitHub, Mastodon and Shaarli links](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
+* [Vultr affiliate link](https://github.com/angristan/Casper-XYZ/blob/master/default.hbs#L32)
 
 ### External assets embedded
 
