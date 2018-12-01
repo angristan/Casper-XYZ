@@ -29,11 +29,6 @@
     font-family: 'Source Sans Pro',Georgia,serif;
 }
 
-/* Justify post content */
-.post-full-content {
-    text-align: justify;
-}
-
 /* Make the post content font size 0.3rem tinier */
 .post-full-content {
     font-size: 1.9rem;
