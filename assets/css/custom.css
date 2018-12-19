@@ -107,9 +107,20 @@
 }
 
 /* Center the header post image */
-.post-header-image {
+.post-full-image {
     display: block;
     margin: auto;
+}
+
+/* Do not stretch header image */
+.post-full-image img {
+    height: 100% !important;
+}
+
+@media (max-width: 500px) {
+    .post-full-image {
+        height: 100% !important;
+    }
 }
 
 /* Remove the shadows as we move up the image */
