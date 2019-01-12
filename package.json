@@ -2,9 +2,10 @@
     "name": "casper-xyz",
     "description": "This is the Ghost theme of angristan.xyz, based on Casper.",
     "demo": "https://angristan.xyz",
-    "version": "2.8.0",
+    "version": "2.8.1",
     "engines": {
-        "ghost": ">=2.0.0"
+        "ghost": ">=2.0.0",
+        "ghost-api": "v2"
     },
     "license": "MIT",
     "screenshots": {
