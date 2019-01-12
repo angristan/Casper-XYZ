@@ -22,6 +22,7 @@ List of the modifications made in this fork:
 * [GitHub, Mastodon and Shaarli links and SVG icons](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
 * Added [GitLab CI](https://gitlab.com/angristan/Casper-XYZ/pipelines)
 * [Use GitLab-like font for code blocks instead of ugly monospace](https://github.com/angristan/Casper-XYZ/blob/master/assets/css/custom.css#L163)
+* [Replaced estimated reading time on posts list by the release date](https://github.com/angristan/Casper-XYZ/pull/4)
 
 ### Hardcoded stuff
 
