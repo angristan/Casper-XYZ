@@ -171,3 +171,9 @@
 code, kbd, pre, samp {
     font-family: "Menlo", "DejaVu Sans Mono", "Liberation Mono", "Consolas", "Ubuntu Mono", "Courier New", "andale mono", "lucida console", monospace;
 }
+
+/* h3 and h4 have the same size */
+
+.post-full-content h4 {
+    font-size: 2.4rem;
+}
