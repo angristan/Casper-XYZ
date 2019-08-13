@@ -1,32 +1,40 @@
 /* source-sans-pro-regular - latin */
 @font-face {
-    font-family: 'Source Sans Pro';
+    font-family: "Source Sans Pro";
     font-style: normal;
     font-weight: 400;
-    src: url('../fonts/source-sans-pro-v11-latin-regular.eot'); /* IE9 Compat Modes */
-    src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'),
-         url('../fonts/source-sans-pro-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/source-sans-pro-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/source-sans-pro-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
-         url('../fonts/source-sans-pro-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('../fonts/source-sans-pro-v11-latin-regular.svg#SourceSansPro') format('svg'); /* Legacy iOS */
+    src: url("../fonts/source-sans-pro-v11-latin-regular.eot"); /* IE9 Compat Modes */
+    src: local("Source Sans Pro Regular"), local("SourceSansPro-Regular"),
+        url("../fonts/source-sans-pro-v11-latin-regular.eot?#iefix")
+            format("embedded-opentype"),
+        /* IE6-IE8 */ url("../fonts/source-sans-pro-v11-latin-regular.woff2")
+            format("woff2"),
+        /* Super Modern Browsers */
+            url("../fonts/source-sans-pro-v11-latin-regular.woff")
+            format("woff"),
+        /* Modern Browsers */
+            url("../fonts/source-sans-pro-v11-latin-regular.ttf")
+            format("truetype"),
+        /* Safari, Android, iOS */
+            url("../fonts/source-sans-pro-v11-latin-regular.svg#SourceSansPro")
+            format("svg"); /* Legacy iOS */
 }
 
 /* Use Source Sans Pro font */
 .post-full-content {
-    font-family: 'Source Sans Pro',Georgia,serif;
+    font-family: "Source Sans Pro", Georgia, serif;
 }
 .post-full-content h5 {
-    font-family: 'Source Sans Pro',Georgia,serif;
+    font-family: "Source Sans Pro", Georgia, serif;
 }
 .post-card-excerpt {
-    font-family: 'Source Sans Pro',Georgia,serif;
+    font-family: "Source Sans Pro", Georgia, serif;
 }
 .site-header-content .author-meta {
-    font-family: 'Source Sans Pro',Georgia,serif;
+    font-family: "Source Sans Pro", Georgia, serif;
 }
 .subscribe-overlay-description {
-    font-family: 'Source Sans Pro',Georgia,serif;
+    font-family: "Source Sans Pro", Georgia, serif;
 }
 
 /* Make the post content font size 0.3rem tinier */
@@ -69,7 +77,7 @@
 }
 
 /* Make the first paragraph the same size as the post */
-.post-template .post-content>p:first-child {
+.post-template .post-content > p:first-child {
     font-size: inherit;
     line-height: inherit;
 }
@@ -85,7 +93,8 @@
 }
 
 /* Reduce top and bottom margins for pictures and videos by 1em */
-.post-full-content img, .post-full-content video {
+.post-full-content img,
+.post-full-content video {
     margin: 0.5em auto;
 }
 
@@ -124,7 +133,8 @@
 }
 
 /* Remove the shadows as we move up the image */
-.post-full-content::before, .post-full-content::after {
+.post-full-content::before,
+.post-full-content::after {
     display: none;
 }
 
@@ -168,8 +178,12 @@
 
 /* Use GitLab-like font for code blocks instead of ugly monospace */
 
-code, kbd, pre, samp {
-    font-family: "Menlo", "DejaVu Sans Mono", "Liberation Mono", "Consolas", "Ubuntu Mono", "Courier New", "andale mono", "lucida console", monospace;
+code,
+kbd,
+pre,
+samp {
+    font-family: "Menlo", "DejaVu Sans Mono", "Liberation Mono", "Consolas",
+        "Ubuntu Mono", "Courier New", "andale mono", "lucida console", monospace;
 }
 
 /* h3 and h4 have the same size */
