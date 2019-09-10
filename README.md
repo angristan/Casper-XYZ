@@ -23,7 +23,7 @@ List of the modifications made in this fork:
 * Added [GitLab CI](https://gitlab.com/angristan/Casper-XYZ/pipelines)
 * [Use GitLab-like font for code blocks instead of ugly monospace](https://github.com/angristan/Casper-XYZ/blob/master/assets/css/custom.css#L163)
 * [Replaced estimated reading time on posts list by the release date](https://github.com/angristan/Casper-XYZ/pull/4)
-* [Backported AMP template to theme for customisation](https://github.com/angristan/Casper-XYZ/blob/master/amp.hbs)
+* [Backported AMP template to theme for customisation (Google Analytics)](https://github.com/angristan/Casper-XYZ/blob/master/amp.hbs)
 
 ### Hardcoded stuff
 
