@@ -197,3 +197,9 @@ samp {
 .avatar img {
     border-radius: 10px;
 }
+
+/* Add some margin to images captions */
+
+.kg-image-card figcaption {
+    margin-top: 10px;
+}
