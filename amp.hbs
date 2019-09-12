@@ -45,6 +45,23 @@
         </script>
     </amp-analytics>
 
+    <amp-analytics>
+        <script type="application/json">
+            {
+                "triggers": {
+                    "trackPageview": {
+                        "on": "visible",
+                        "request": "pageview"
+                    }
+                },
+                "requests": {
+                    "base": "https://matomo.angristan.xyz/piwik.php?idsite=5&rec=1&action_name=${title}&url=${sourceUrl}&rand=${random}&apiv=1&urlref=${documentReferrer}&res=${screenWidth}x${screenHeight}&lang=${browserLanguage}&gt_ms=${serverResponseTime}&cs=${documentCharset}&_cvar={\"1\":[\"errorName\",\"${errorName}\"],\"2\":[\"errorMessage\",\"${errorMessage}\"]}",
+                    "pageview": "${base}"
+                }
+            }
+        </script>
+    </amp-analytics>
+
     {{#post}}
     <header class="main-header">
         <nav class="blog-title">
