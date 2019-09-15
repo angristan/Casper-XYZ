@@ -203,3 +203,9 @@ samp {
 .kg-image-card figcaption {
     margin-top: 10px;
 }
+
+/* Don't break words in code lines */
+
+.post-full-content p code {
+    word-break: inherit;
+}
