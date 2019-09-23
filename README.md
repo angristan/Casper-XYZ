@@ -19,7 +19,7 @@ List of the modifications made in this fork:
 * [Host jQuery locally](https://github.com/Angristan/Casper-XYZ/commit/50b425d7c1a370bd44d599d597b25623f8c8936b)
 * [Use the Open Sans Pro font](https://github.com/Angristan/Casper-XYZ/blob/master/assets/css/custom.css#L1)
 * [Header image is the same width as the content, and the content doesn't step on it](https://github.com/Angristan/Casper-XYZ/commit/1c0fd7d699651d7413028d130f59e20dbcab498e)
-* [GitHub, Mastodon and Shaarli links and SVG icons](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
+* [GitHub, Mastodon, Linkedin, Instagram and Shaarli links and SVG icons](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
 * Added [GitLab CI](https://gitlab.com/angristan/Casper-XYZ/pipelines)
 * [Use GitLab-like font for code blocks instead of ugly monospace](https://github.com/angristan/Casper-XYZ/blob/master/assets/css/custom.css#L163)
 * [Replaced estimated reading time on posts list by the release date](https://github.com/angristan/Casper-XYZ/pull/4)
@@ -30,7 +30,7 @@ List of the modifications made in this fork:
 I try to make the theme reusable as possible, but I still have to hardcode some stuff.
 
 * [Isso comments block](https://github.com/Angristan/Casper-XYZ/blob/master/post.hbs#L71)
-* [GitHub, Mastodon and Shaarli links](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
+* [GitHub, Mastodon, Linkedin, Instagram and Shaarli links](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
 * [Vultr affiliate link](https://github.com/angristan/Casper-XYZ/blob/master/default.hbs#L32)
 
 ### External assets embedded
