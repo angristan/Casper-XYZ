@@ -118,7 +118,7 @@
 /* Center the header post image */
 .post-full-image {
     display: block;
-    margin: auto;
+    margin-top: 0;
 }
 
 /* Do not stretch header image */
