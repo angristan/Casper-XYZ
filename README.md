@@ -18,7 +18,7 @@ List of the modifications made in this fork:
 * [Use the Open Sans Pro font](https://github.com/Angristan/Casper-XYZ/blob/master/assets/css/custom.css#L1)
 * [Header image is the same width as the content, and the content doesn't step on it](https://github.com/Angristan/Casper-XYZ/commit/1c0fd7d699651d7413028d130f59e20dbcab498e)
 * [GitHub, Mastodon, Linkedin, Instagram and Shaarli links and SVG icons](https://github.com/Angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
-* Added [GitLab CI](https://gitlab.com/angristan/Casper-XYZ/pipelines)
+* Added GitHub action for CI instead of Travis
 * [Use GitLab-like font for code blocks instead of ugly monospace](https://github.com/angristan/Casper-XYZ/blob/master/assets/css/custom.css#L163)
 * [Replaced estimated reading time on posts list by the release date](https://github.com/angristan/Casper-XYZ/pull/4)
 * [Backported AMP template to theme for customisation (Google Analytics and Matomo)](https://github.com/angristan/Casper-XYZ/blob/master/amp.hbs)
