@@ -116,10 +116,22 @@ into the {body} of the default.hbs template --}}
 
 
             <section class="post-full-comments">
-                {{!-- Isso (hardcoded) --}}
-                <script data-isso="https://isso.angristan.xyz/" data-isso-gravatar="true" data-isso-avatar="false"
-                    src="https://isso.angristan.xyz/js/embed.min.js"></script>
-                <section id="isso-thread"></section>
+                <div id="disqus_thread"></div>
+                <script>
+                    var disqus_config = function () {
+                        this.page.url = "{{url absolute="true"}}";
+                        this.page.identifier = "ghost-{{comment_id}}"
+                    };
+
+                    (function() {
+                    var d = document, s = d.createElement('script');
+                    s.src = 'https://angristan-xyz.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
             </section>
 
 

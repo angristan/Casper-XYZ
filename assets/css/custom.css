@@ -209,3 +209,8 @@ samp {
 .post-full-content p code {
     word-break: inherit;
 }
+
+/* Make comments the same width as content */
+.post-full-comments {
+    padding: 0 170px 6vw;
+}
