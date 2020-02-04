@@ -215,15 +215,15 @@ samp {
     padding: 0 170px 6vw;
 }
 
-@media (max-width: 800px) {
-    .post-full-comments {
-        padding: 0 5vw;
-    }
-}
-
 @media (max-width: 1170px) {
     .post-full-comments {
         padding: 0 11vw;
+    }
+}
+
+@media (max-width: 800px) {
+    .post-full-comments {
+        padding: 0 5vw;
     }
 }
 
