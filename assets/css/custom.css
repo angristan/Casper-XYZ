@@ -196,7 +196,7 @@ samp {
 
 /* Make comments the same width as content */
 .post-full-comments {
-    padding: 0 170px 6vw;
+    padding: 0 170px 0;
 }
 
 @media (max-width: 1170px) {
@@ -217,15 +217,13 @@ samp {
     }
 }
 
-/* Add margin to Isso's subscribe button */
-.isso-postbox > .form-wrapper input[type="checkbox"] {
-    margin-right: 1em;
-}
+/* Remove uesless space between post and comments */
 
 .post-full-content {
     padding-bottom: 4vw;
 }
 
+/* Some margin around isso buttons */
 #isso-thread .textarea-wrapper {
     margin-bottom: 1em;
 }
@@ -239,4 +237,12 @@ samp {
 
 .isso-postbox > .form-wrapper > .auth-section .post-action {
     margin-right: 10px;
+}
+
+.isso-postbox > .form-wrapper > .auth-section .post-action > input {
+    padding: calc(0.4em - 1px) calc(0.6em - 1px);
+}
+
+.isso-postbox > .form-wrapper input[type="checkbox"] {
+    margin-right: 1em;
 }
