@@ -28,7 +28,7 @@ List of the modifications made in this fork:
 
 I try to make the theme reusable as possible, but I still have to hardcode some stuff.
 
-* [Disqus comments](https://github.com/angristan/Casper-XYZ/blob/master/post.hbs)
+* [Isso comments](https://github.com/angristan/Casper-XYZ/blob/master/post.hbs)
 * [GitHub, Mastodon, Linkedin, Instagram and Shaarli links](https://github.com/angristan/Casper-XYZ/blob/master/partials/site-nav.hbs)
 * [Vultr affiliate link](https://github.com/angristan/Casper-XYZ/blob/master/default.hbs)
 * [Google Analytics and Matomo in AMP](https://github.com/angristan/Casper-XYZ/blob/master/amp.hbs)

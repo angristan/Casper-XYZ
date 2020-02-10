@@ -48,22 +48,6 @@
     font-size: 3rem;
 }
 
-/* Make the thread the same width as the post */
-#isso-thread {
-    padding: 0 100px 0 !important;
-}
-
-@media (max-width: 1170px) {
-    #isso-thread {
-        padding: 5vw 7vw 0 !important;
-    }
-}
-
-@media (max-width: 500px) {
-    #isso-thread {
-        padding: 0 !important;
-    }
-}
 /* reduce the bottom padding of the author card */
 .post-full-footer {
     padding: 3vw 0 3vw;
@@ -231,4 +215,28 @@ samp {
     .post-full-comments {
         padding: 30px 0 0;
     }
+}
+
+/* Add margin to Isso's subscribe button */
+.isso-postbox > .form-wrapper input[type="checkbox"] {
+    margin-right: 1em;
+}
+
+.post-full-content {
+    padding-bottom: 4vw;
+}
+
+#isso-thread .textarea-wrapper {
+    margin-bottom: 1em;
+}
+#isso-thread .auth-section {
+    margin-bottom: 0.7em;
+}
+
+.isso-postbox > .form-wrapper > .auth-section .input-wrapper {
+    margin-right: 10px;
+}
+
+.isso-postbox > .form-wrapper > .auth-section .post-action {
+    margin-right: 10px;
 }
