@@ -232,11 +232,7 @@ samp {
 }
 
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper {
-    margin-right: 10px;
-}
-
-.isso-postbox > .form-wrapper > .auth-section .post-action {
-    margin-right: 10px;
+    margin-right: 5px !important;
 }
 
 .isso-postbox > .form-wrapper > .auth-section .post-action > input {
