@@ -242,3 +242,26 @@ samp {
 .isso-postbox > .form-wrapper input[type="checkbox"] {
     margin-right: 1em;
 }
+
+/* Add some left padding to Isso comment text and reply button to match avatar width */
+
+.isso-comment > div.text-wrapper > .isso-comment-footer,
+.isso-comment > div.text-wrapper > .text {
+    padding-left: calc(7% + 15px);
+}
+
+/* Add some margin between the number of Isso comments and the form */
+
+#isso-thread > h4 {
+    margin-bottom: 1em;
+}
+
+/* Add Ghost-like look to inline code in Isso comments */
+#isso-thread code {
+    padding: 0 5px 2px;
+    font-size: 0.8em;
+    line-height: 1em;
+    font-weight: 400 !important;
+    background: #e5eff5;
+    border-radius: 3px;
+}
