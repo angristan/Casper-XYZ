@@ -240,7 +240,7 @@ samp {
 }
 
 .isso-postbox > .form-wrapper > .auth-section .post-action > input {
-    padding: calc(0.4em - 1px) calc(0.6em - 1px);
+    padding: calc(0.4em - 1px) calc(0.6em - 1px) !important;
 }
 
 .isso-postbox > .form-wrapper input[type="checkbox"] {
