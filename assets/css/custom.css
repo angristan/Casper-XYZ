@@ -265,3 +265,9 @@ samp {
     background: #e5eff5;
     border-radius: 3px;
 }
+
+/* Make sure the 2nd part of the Isso form stays on one line even when responding to a nested comment. */
+
+.isso-postbox > .form-wrapper > .auth-section .input-wrapper {
+    max-width: 24% !important;
+}
