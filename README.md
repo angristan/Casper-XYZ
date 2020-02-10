@@ -15,6 +15,7 @@ List of the modifications made in this fork:
   * Header image is the same width as the content, and the content doesn't step on it
   * Use GitLab-like font for code blocks instead of ugly monospace
   * Disable dark mode
+  * Isso (comments) style enhancements
   * A lot more, check the comments!
 * [Removed share buttons in the header](https://github.com/angristan/Casper-XYZ/commit/b4530b973a71bcdfce82c02572525171a5fa9159)
 * [Replaced Feedly links by original RSS links](https://github.com/angristan/Casper-XYZ/commit/c618bc702969c217b6f48277244b6bf04b4e46bd)
