@@ -230,9 +230,10 @@ samp {
 #isso-thread .auth-section {
     margin-bottom: 0.7em;
 }
-
-.isso-postbox > .form-wrapper > .auth-section .input-wrapper {
-    margin-right: 5px !important;
+@media screen and (min-width: 600px) {
+    .isso-postbox > .form-wrapper > .auth-section .input-wrapper {
+        margin-right: 5px !important;
+    }
 }
 
 .isso-postbox > .form-wrapper > .auth-section .post-action > input {
@@ -268,6 +269,16 @@ samp {
 
 /* Make sure the 2nd part of the Isso form stays on one line even when responding to a nested comment. */
 
-.isso-postbox > .form-wrapper > .auth-section .input-wrapper {
-    max-width: 24% !important;
+@media screen and (min-width: 600px) {
+    .isso-postbox > .form-wrapper > .auth-section .input-wrapper {
+        max-width: 23% !important;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .isso-postbox > .form-wrapper > .auth-section .input-wrapper {
+        display: block !important;
+        max-width: 100% !important;
+        margin: 0 0 0.3em !important;
+    }
 }
