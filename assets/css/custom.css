@@ -282,3 +282,8 @@ samp {
         margin: 0 0 0.3em !important;
     }
 }
+
+/* Make blockquotes the same font size as the rest of the comment */
+#isso-thread blockquote {
+    font-size: 80%;
+}
