@@ -23,7 +23,6 @@ List of the modifications made in this fork:
 * [GitHub, Mastodon, Linkedin, Instagram and Shaarli links and SVG icons](https://github.com/angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
 * [Use GitHub Actions for CI instead of Travis (test + deploy)](https://github.com/angristan/Casper-XYZ/tree/master/.github/workflows)
 * [Replaced estimated reading time on posts list by the release date](https://github.com/angristan/Casper-XYZ/pull/4)
-* [Backported AMP template to theme for customization](https://github.com/angristan/Casper-XYZ/blob/master/amp.hbs)
 
 ### Hardcoded stuff
 
@@ -32,7 +31,6 @@ I try to make the theme reusable as possible, but I still have to hardcode some 
 * [Isso comments](https://github.com/angristan/Casper-XYZ/blob/master/post.hbs)
 * [GitHub, Mastodon, Linkedin, Instagram and Shaarli links](https://github.com/angristan/Casper-XYZ/blob/master/partials/site-nav.hbs)
 * [Vultr affiliate link](https://github.com/angristan/Casper-XYZ/blob/master/default.hbs)
-* [Google Analytics and Matomo in AMP](https://github.com/angristan/Casper-XYZ/blob/master/amp.hbs)
 
 **MAKE SURE TO UPDATE/REMOVE THEM IF YOU PLAN ON REUSING MY THEME!**
 
