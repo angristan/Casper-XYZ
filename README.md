@@ -19,7 +19,7 @@ List of the modifications made in this fork:
   * A lot more, check the comments!
 * [Removed share buttons in the header](https://github.com/angristan/Casper-XYZ/commit/b4530b973a71bcdfce82c02572525171a5fa9159)
 * [Replaced Feedly links by original RSS links](https://github.com/angristan/Casper-XYZ/commit/c618bc702969c217b6f48277244b6bf04b4e46bd)
-* [Host jQuery locally](https://github.com/angristan/Casper-XYZ/commit/50b425d7c1a370bd44d599d597b25623f8c8936b)
+* [Host jQuery locally](https://github.com/angristan/Casper-XYZ/commit/d9105f2667ed7ae8de32a3cd36d1bea8a910f77d)
 * [GitHub, Mastodon, Linkedin, Instagram and Shaarli links and SVG icons](https://github.com/angristan/Casper-XYZ/blob/master/partials/site-nav.hbs#L16)
 * [Use GitHub Actions for CI instead of Travis (test + deploy)](https://github.com/angristan/Casper-XYZ/tree/master/.github/workflows)
 * [Replaced estimated reading time on posts list by the release date](https://github.com/angristan/Casper-XYZ/pull/4)
