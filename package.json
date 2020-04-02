@@ -2,7 +2,7 @@
     "name": "casper-xyz",
     "description": "This is the Ghost theme of angristan.xyz, based on Casper.",
     "demo": "https://angristan.xyz",
-    "version": "3.0.6",
+    "version": "3.0.11",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
@@ -46,19 +46,20 @@
     "bugs": "https://github.com/Angristan/Casper/issues",
     "contributors": "https://github.com/Angristan/Casper/graphs/contributors",
     "devDependencies": {
-        "@tryghost/release-utils": "0.3.3",
-        "autoprefixer": "9.7.1",
+        "@tryghost/release-utils": "0.5.0",
+        "autoprefixer": "9.7.5",
         "beeper": "2.0.0",
         "cssnano": "4.1.10",
-        "gscan": "3.2.1",
+        "gscan": "3.4.0",
         "gulp": "4.0.2",
         "gulp-concat": "2.6.1",
         "gulp-livereload": "4.0.2",
         "gulp-postcss": "8.0.0",
         "gulp-uglify": "3.0.2",
         "gulp-zip": "5.0.1",
+        "inquirer": "7.1.0",
         "postcss-color-function": "4.1.0",
-        "postcss-custom-properties": "9.0.2",
+        "postcss-custom-properties": "9.1.1",
         "postcss-easy-import": "3.0.0",
         "pump": "3.0.0"
     },
