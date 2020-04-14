@@ -6,7 +6,7 @@ For more information regarding how to use the theme with Ghost, please refer to 
 
 ## Fork
 
-I keep my fork [up-to-date](https://github.com/angristan/Casper-XYZ/wiki/Maintaining-the-fork) with the upstream.
+I keep my fork [up-to-date](https://github.com/angristan/Casper-XYZ/blob/master/UPDATE.md) with the upstream.
 
 List of the modifications made in this fork:
 
