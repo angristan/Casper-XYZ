@@ -4,6 +4,8 @@ This is the [Ghost](https://github.com/tryghost/ghost/) theme of [angristan.xyz]
 
 For more information regarding how to use the theme with Ghost, please refer to the [original README](https://github.com/TryGhost/Casper)
 
+Please credit me if you plan on reusing my theme. 🙂
+
 ## Fork
 
 I keep my fork [up-to-date](https://github.com/angristan/Casper-XYZ/blob/master/UPDATE.md) with the upstream.
