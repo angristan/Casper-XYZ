@@ -2,6 +2,10 @@
 
 This is the [Ghost](https://github.com/tryghost/ghost/) theme of [angristan.xyz](https://angristan.xyz), based on [Casper](https://github.com/TryGhost/Casper).
 
+I talked about it on my blog:
+- [My custom Ghost theme](https://angristan.xyz/2018/02/my-custom-ghost-theme/)
+- [Deploying a Ghost theme with GitHub actions](https://angristan.xyz/2020/05/deploy-ghost-theme-github-actions/)
+
 For more information regarding how to use the theme with Ghost, please refer to the [original README](https://github.com/TryGhost/Casper)
 
 Please credit me if you plan on reusing my theme. 🙂
